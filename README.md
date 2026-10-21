@@ -19,3 +19,9 @@ started under the game's exe name, so Discord sees a running process.
 - Unofficial tool, gray area of Discord rules. Use at your own risk.
 - Don't run a fake game while the real one is open: stopping works by exe name.
 - Only network request: the public Discord game list.
+
+## Important Warnings
+
+* **Quest Danger:** Spoofing Discord Quests can get you banned or lose rewards. Check the Quests tab and don't fake active games. Use at your own risk!
+* **100% Privacy:** No logins, tokens, registry tweaks, or data tracking. 
+* **Source Code:** Closed for now. It's an unsigned .exe from a random dude — if you don't trust it, don't run it.
